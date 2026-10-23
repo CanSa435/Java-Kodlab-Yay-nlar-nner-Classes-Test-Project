@@ -1,0 +1,1 @@
+package com.cansazak.nonameclass.interfaces;
